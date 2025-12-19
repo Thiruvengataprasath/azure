@@ -1,0 +1,9 @@
+{
+	"name": "adf-cars-thiru",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cdf12cc1-84d3-4021-ad9e-86a2ee227e56",
+		"tenantId": "a9b3137f-84f4-4c0e-ad0e-1a2fd2ea57dc"
+	}
+}
